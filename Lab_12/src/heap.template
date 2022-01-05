@@ -1,0 +1,76 @@
+/*
+* Class: CS 3305L Section 05
+* Term: Spring 2020
+* Name: Karan Munday
+* Instructor: Deepa Muralidhar
+* Assignment: 12
+* File Name: heap.template
+*/
+template <typename T>
+heap<T>::heap() {
+	
+}
+
+template <typename T>
+unsigned int heap<T>::size() const {
+	return v.size();
+}
+
+template <typename T>
+bool heap<T>::is_empty() const {
+	return v.size() == 0;
+}
+
+template <typename T>
+void heap<T>::insert(const T& item) {
+	unsigned int node_move = size();
+	v.push_back(item);
+	while (node_move != 0 && v[node_move] > v[(node_move - 1) / 2]) {
+		T temp = v[node_move];
+		v[node_move] = v[(node_move - 1) / 2];
+		v[(node_move - 1) / 2] = temp;
+		node_move = (node_move - 1) / 2;
+	}
+}
+
+template <typename T>
+void heap<T>::remove() {
+	unsigned int node_move = 0;
+	v[0] = v[size() - 1];
+	v.pop_back();
+	while (max_child(node_move) != node_move) {
+		T temp = v[node_move];
+		unsigned int bigger_index = max_child(node_move);
+		v[node_move] = v[bigger_index];
+		v[bigger_index] = temp;
+		node_move = bigger_index;
+	}
+}
+
+template <typename T>
+T heap<T>::max() const{
+	return v[0];
+}
+
+template <typename T>
+T& heap<T>::max() {
+	return v[0];
+}
+
+template <typename T>
+unsigned int heap<T>::max_child(unsigned int index) const {
+	if (size() > index * 2 + 2) {
+		if (v[index * 2 + 1] > v[index * 2 + 2]) {
+			return index * 2 + 1;
+		}
+		else {
+			return index * 2 + 2;
+		}
+	}
+	else if (size() > index * 2 + 1) {
+		return index * 2 + 1;
+	}
+	else {
+		return index;
+	}
+}

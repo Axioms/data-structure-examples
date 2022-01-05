@@ -1,0 +1,241 @@
+[{
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\TestThinker.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\TestThinker.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\TestThinker.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\thinker.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\thinker.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\thinker.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\thinker.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\thinker.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_4\\src\\thinker.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\stack_pair.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\stack_pair.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\stack_pair.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\stack_pair.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\stack_pair.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\stack_pair.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\test_overflow.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\test_overflow.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\test_overflow.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\test_underflow.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\test_underflow.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_9\\src\\test_underflow.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\priority_queue.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\priority_queue.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\priority_queue.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\heap.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\heap.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_12\\src\\heap.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\bintree.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\bintree.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\bintree.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\build_tree.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\build_tree.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\build_tree.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\main_lab11.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\main_lab11.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\main_lab11.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\bintree.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\bintree.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\bintree.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\build_tree.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\build_tree.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_10\\src\\build_tree.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_1\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_1\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_1\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_3\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_3",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_3\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_3\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table1.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table1.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table1.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table1.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table1.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table1.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table2.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table2.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table2.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\Source.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\Source.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\Source.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table2.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table2.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_13\\src\\table2.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_1\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_1\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_1\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\bag5.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\bag5.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\bag5.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\node2.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\node2.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\node2.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\bag5.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\bag5.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\bag5.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\node2.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\node2.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_8\\src\\node2.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\statexam.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\statexam.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\statexam.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\headers\\stats.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\headers\\stats.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\headers\\stats.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\stats.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\stats.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_2\\src\\stats.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_2\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_2\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_3\\Lab_3_2\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence_exam2.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence_exam2.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence_exam2.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence2.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence2.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence2.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence2.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence2.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_5\\src\\sequence2.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence_exam3.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence_exam3.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence_exam3.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence3.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence3.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence3.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence3.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence3.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\sequence3.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\node1.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\node1.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\node1.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\node1.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\node1.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_6\\src\\node1.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag_diff3.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag_diff3.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag_diff3.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag3.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag3.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag3.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag3.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag3.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\bag3.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\toolkit.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\toolkit.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\toolkit.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\toolkit.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\toolkit.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_1\\src\\toolkit.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\set.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\set.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\set.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\test_set.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\test_set.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\test_set.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\bag2_for_reference.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\bag2_for_reference.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\bag2_for_reference.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\set.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\set.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_4\\src\\set.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\check_lists.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\check_lists.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\check_lists.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\node1.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\node1.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\node1.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\check_lists.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\check_lists.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\check_lists.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\node1.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\node1.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_7\\Lab_7_2\\src\\node1.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bintree.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bintree.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bintree.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bintree.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bintree.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bintree.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bst.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bst.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bst.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bst.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bst.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures Lab\\Labs\\Lab_11\\src\\bst.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }]

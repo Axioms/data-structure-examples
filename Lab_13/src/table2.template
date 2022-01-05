@@ -1,0 +1,122 @@
+/*
+* Class: CS 3305L Section 05
+* Term: Spring 2020
+* Name: Karan Munday
+* Instructor: Deepa Muralidhar
+* Assignment: 13
+* File Name: table2.template
+*/
+#include <cassert>
+#include <iostream>
+
+namespace main_savitch_quadratic_hash_table {
+	template<class RecordType>
+	table<RecordType>::table() {
+		for (std::size_t i = 0; i < CAPACITY; i++) {
+			data[i].key = NEVER_USED;
+			data[i].value = 0;
+		}
+		used = 0;
+	}
+
+	template<class RecordType>
+	void table<RecordType>::insert(const RecordType& entry) {
+		assert(entry.key >= 0);
+		if (size() < CAPACITY) {
+			if (is_present(entry.key)) {
+				std::size_t index = 0;
+				bool found;
+				find_index(entry.key, found, index);
+				data[index] = entry;
+			}
+			else {
+				std::size_t index = hash(entry.key);
+				if (is_vacant(index)) {
+					data[index] = entry;
+					used++;
+				}
+				else {
+					std::size_t collisions = 1;
+					bool found = false;
+					do {
+						index = (index + collisions) % CAPACITY;
+						if (is_vacant(index)) {
+							data[index] = entry;
+							found = true;
+							used++;
+						}
+						collisions++;
+					} while (index != hash(entry.key) && !found);
+				}
+			}
+		}
+	}
+
+	template<class RecordType>
+	void table<RecordType>::remove(int key) {
+		bool found;
+		std::size_t index;
+		find_index(key, found, index);
+		if (size() > 0 && found) {
+			data[index].key = PREVIOUSLY_USED;
+			used--;
+		}
+	}
+
+	template<class RecordType>
+	bool table<RecordType>::is_present(int key) const {
+		bool found;
+		std::size_t index;
+		find_index(key, found, index);
+		return found;
+	}
+
+	template<class RecordType>
+	void table<RecordType>::find(int key, bool& found, RecordType& result) const {
+		std::size_t index;
+		find_index(key, found, index);
+		result = data[index];
+	}
+
+	template<class RecordType>
+	std::size_t table<RecordType>::hash(int key) const {
+		return key % CAPACITY;
+	}
+
+	template<class RecordType>
+	std::size_t table<RecordType>::next_index(std::size_t index, std::size_t collisions) const {
+		return ((index + collisions) % CAPACITY);
+	}
+
+	template<class RecordType>
+	void table<RecordType>::find_index(int key, bool& found, std::size_t& index) const {
+		found = false;
+		index = hash(key);
+		if (!is_vacant(index) && data[index].key == key) {
+			found = true;
+		}
+		else {
+			bool neverused = false;
+			std::size_t collisions = 1;
+			do {
+				index = next_index(index, collisions);
+				neverused = never_used(index);
+				if (!is_vacant(index) && data[index].key == key) {
+					found = true;
+				}
+				collisions++;
+
+			} while (index != hash(key) && !found && !neverused);
+		}
+	}
+
+	template<class RecordType>
+	bool table<RecordType>::never_used(std::size_t index) const {
+		return data[index].key == NEVER_USED;
+	}
+
+	template<class RecordType>
+	bool table<RecordType>::is_vacant(std::size_t index) const {
+		return data[index].key == NEVER_USED || data[index].key == PREVIOUSLY_USED;
+	}
+}

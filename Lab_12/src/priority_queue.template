@@ -1,0 +1,38 @@
+/*
+* Class: CS 3305L Section 05
+* Term: Spring 2020
+* Name: Karan Munday
+* Instructor: Deepa Muralidhar
+* Assignment: 12
+* File Name: priority_queue.template
+*/
+
+template<typename T>
+priority_queue<T>::priority_queue() {
+
+}
+
+template<typename T>
+void priority_queue<T>::pop() {
+	h.remove();
+}
+
+template<typename T>
+void priority_queue<T>::push(const T& item) {
+	h.insert(item);
+}
+
+template<typename T>
+bool priority_queue<T>::empty() const {
+	return h.is_empty();
+}
+
+template<typename T>
+unsigned int priority_queue<T>::size() const {
+	return h.size();
+}
+
+template<typename T>
+T priority_queue<T>::top() const {
+	return h.max();
+}
